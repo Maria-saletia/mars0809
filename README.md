@@ -2,5 +2,5 @@
 Tugas web
 
 
-cley.com
-goan.com
+.com
+goan.
